@@ -31,4 +31,4 @@ var funkyFunction = function() {
 
 var theFunk = funkyFunction
   var secret = "FUNKY!"
-  return secret
+  console.log(secret)
