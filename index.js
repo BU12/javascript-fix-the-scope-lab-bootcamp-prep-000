@@ -21,11 +21,11 @@ function add2(n) {
 }
 
 var funkyFunction = function() {
-  return function red(){
+  return function balls(){
       return "FUNKY!"
   }
 }
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
 
-var theFunk = funkyFunction()red()
+var theFunk = funkyFunction()balls()
